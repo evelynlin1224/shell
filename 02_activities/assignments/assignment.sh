@@ -34,6 +34,7 @@ mv rawdata data/raw
 
 ls data/raw
 
+
 mkdir -p data/processed/server_logs
 mkdir -p data/processed/user_logs
 mkdir -p data/processed/event_logs
